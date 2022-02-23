@@ -10,16 +10,206 @@ http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/130975
 #EXTINF:-1 tvg-id="" tvg-name="COL HD | RCN NUESTRA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/125px-Canal_RCN_logo.svg.png" group-title="COLOMBIA",COL HD | RCN NUESTRA TELE
 http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6685
 
-#EXTINF:-1 tvg-id="" tvg-name="COL HD | TELE CARIBE DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="COLOMBIA",COL HD | TELE CARIBE DEPORTES
-http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6700
-#EXTINF:-1 tvg-id="" tvg-name="COL HD | TELECAFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA",COL HD | TELECAFE
-http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6706
-#EXTINF:-1 tvg-id="" tvg-name="COL HD | TELEMEDELLIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/150px-Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA",COL HD | TELEMEDELLIN
-http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8831
-#EXTINF:-1 tvg-id="" tvg-name="COL HD | TV AGRO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/245px-TV_Agro_logo.svg.png" group-title="COLOMBIA",COL HD | TV AGRO 
-http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6708
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/150px-Canal_tro_logo.PNG" group-title="COLOMBIA",COL | CANAL TRO
-http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8822
 #EXTINF:-1 tvg-id="" tvg-name="COL | CANAL UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/125px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",COL | CANAL UNO
 http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8823
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CityTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/170px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="COLOMBIA",COL | CityTv
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8714
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/125px-Canal_RCN_logo.svg.png" group-title="COLOMBIA",COL | RCN NOVELAS
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8825
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | WIN SPORTS +  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",COL | WIN SPORTS +  SD
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/33229
+#EXTINF:-1 tvg-id="" tvg-name="COL | WIN SPORTS + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",COL | WIN SPORTS + FHD
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/107173
+#EXTINF:-1 tvg-id="" tvg-name="COL | WIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/150px-WinSports2017.png" group-title="COLOMBIA",COL | WIN SPORTS HD
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/221793
+#EXTINF:-1 tvg-id="" tvg-name="COL | WIN SPORTS+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",COL | WIN SPORTS+ HD
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/130128
+
+#EXTINF:-1 tvg-id="" tvg-name="CR | Discovery Civilization" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="COSTA RICA",CR | Discovery Civilization
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/135662
+#EXTINF:-1 tvg-id="" tvg-name="CR | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Science_logo.svg/150px-Science_logo.svg.png" group-title="COSTA RICA",CR | Discovery Science
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/135672
+#EXTINF:-1 tvg-id="" tvg-name="CR | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/150px-Discovery_Turbo_logo.svg.png" group-title="COSTA RICA",CR | Discovery Turbo
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/135682
+#EXTINF:-1 tvg-id="" tvg-name="CR | El Gourmet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="COSTA RICA",CR | El Gourmet
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/135697
+#EXTINF:-1 tvg-id="" tvg-name="EC | TELEAMAZONAS QUITO HD" tvg-logo="http://www.tvglobals.xyz/logos/tamaz_uio_hd.png" group-title="ECUADOR",EC | TELEAMAZONAS QUITO HD
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/179605
+#EXTINF:-1 tvg-id="" tvg-name="EC | TVC HD" tvg-logo="http://www.tvglobals.xyz/logos/tvc_hd.png" group-title="ECUADOR",EC | TVC HD
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/3342
+#EXTINF:-1 tvg-id="" tvg-name="INF HD | BABY FIRST" tvg-logo="https://images2.imgbox.com/15/7f/qNmv503a_o.png" group-title="INFANTILES",INF HD | BABY FIRST
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8674
+#EXTINF:-1 tvg-id="" tvg-name="INF HD | DISCOVERY KIDS" tvg-logo="https://images2.imgbox.com/e1/c9/2nhMDuKb_o.png" group-title="INFANTILES",INF HD | DISCOVERY KIDS
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8679
+#EXTINF:-1 tvg-id="" tvg-name="INF HD | DISNEY JUNIOR" tvg-logo="https://images2.imgbox.com/a8/38/1jcGkyj6_o.png" group-title="INFANTILES",INF HD | DISNEY JUNIOR
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8688
+#EXTINF:-1 tvg-id="" tvg-name="INF HD | DISNEY XD" tvg-logo="https://images2.imgbox.com/31/f8/dEYUtdI7_o.png" group-title="INFANTILES",INF HD | DISNEY XD
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8682
+#EXTINF:-1 tvg-id="" tvg-name="INF HD | Nat Geo Kids" tvg-logo="https://images2.imgbox.com/53/54/n6lCUiWQ_o.png" group-title="INFANTILES",INF HD | Nat Geo Kids
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8694
+#EXTINF:-1 tvg-id="" tvg-name="INF HD | NICK" tvg-logo="https://images2.imgbox.com/d9/5b/A7jPwpeI_o.png" group-title="INFANTILES",INF HD | NICK
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8683
+#EXTINF:-1 tvg-id="" tvg-name="INF HD | NICK JUNIOR" tvg-logo="https://images2.imgbox.com/e7/9e/7YSvYqij_o.png" group-title="INFANTILES",INF HD | NICK JUNIOR
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8685
+#EXTINF:-1 tvg-id="" tvg-name="INF HD | NICKELODEON" tvg-logo="https://images2.imgbox.com/dc/91/jpB3JOpp_o.png" group-title="INFANTILES",INF HD | NICKELODEON
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/52794
+#EXTINF:-1 tvg-id="" tvg-name="INF HD | BOOMERANG" tvg-logo="https://images2.imgbox.com/b9/04/EP388IoX_o.png" group-title="INFANTILES",INF HD | BOOMERANG
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8671
+#EXTINF:-1 tvg-id="" tvg-name="MU HD | MTV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_m-tv_m.png" group-title="MUSICALES",MU HD | MTV
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8728
+#EXTINF:-1 tvg-id="" tvg-name="MU HD | The Retro Channel" tvg-logo="https://lh3.googleusercontent.com/-t2WD0yOsfvg/XzxnxYhCPPI/AAAAAAAA4oY/qwvkZXM7rAUzOACe0-fSRAQ7_8n6xb5wgCK8BGAsYHg/s0/2020-08-18.png" group-title="MUSICALES",MU HD | The Retro Channel
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8731
+#EXTINF:-1 tvg-id="" tvg-name="MU | BANDAMAX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png" group-title="MUSICALES",MU | BANDAMAX
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8834
+#EXTINF:-1 tvg-id="" tvg-name="MU | HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="MUSICALES",MU | HTV
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/132009
+#EXTINF:-1 tvg-id="" tvg-name="MU | Mix 24-7 Tropical" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="MUSICALES",MU | Mix 24-7 Tropical
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8741
+#EXTINF:-1 tvg-id="" tvg-name="MU | POP Hits" tvg-logo="http://www.canalpop.com.ar/wp-content/uploads/2017/03/Logo-Canal-Pop-TRANSP-02.png" group-title="MUSICALES",MU | POP Hits
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8953
+#EXTINF:-1 tvg-id="" tvg-name="MX HD | AZTECA CINEMA" tvg-logo="" group-title="MEXICO",MX HD | AZTECA CINEMA
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6663
+#EXTINF:-1 tvg-id="" tvg-name="MX HD | AZTECA CORAZON" tvg-logo="http://budtv.mx/posters/1542738024270.png" group-title="MEXICO",MX HD | AZTECA CORAZON
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/9074
+#EXTINF:-1 tvg-id="" tvg-name="MX HD | LAS ESTRELLAS" tvg-logo="http://budtv.mx/posters/1535395972363.jpg" group-title="MEXICO",MX HD | LAS ESTRELLAS
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/5975
+#EXTINF:-1 tvg-id="" tvg-name="MX | CINE DINAMITA" tvg-logo="https://i.imgur.com/zL3AGqH.png" group-title="MEXICO",MX | CINE DINAMITA
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/77790
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  DE PELICULA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/De_Pel%C3%ADcula.svg.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD |  DE PELICULA
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/9299
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  DISCOVERY CHANNEL" tvg-logo="https://i.pinimg.com/originals/80/6e/da/806edad8ed03f37a31c58e8bc88fad8c.png" group-title="CULTURA",PREMIUM HD |  DISCOVERY CHANNEL
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/133157
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  HGTV" tvg-logo="https://www.pngfind.com/pngs/m/431-4311117_discovery-civilization-discovery-channel-hd-png-download.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD |  HGTV
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6946
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | DISTRITO COMEDIA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD | AMC 
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/132664
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | FX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLZbzeTHo6ZZMNWjSUpHb6yQWXOmS4uI375Q&usqp=CAU" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD | FX
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/132667
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  HISTORY " tvg-logo="https://cdn.mitvstatic.com/channels/mx_history_m.png" group-title="CULTURA",PREMIUM HD |  HISTORY 
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/176853
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="CULTURA",PREMIUM HD |  HISTORY 2
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6982
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA",PREMIUM HD |  ANIMAL PLANET
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/14569
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD |  AXN
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/176513
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  CINEMAX ACTION" tvg-logo="http://2.bp.blogspot.com/-2lKRdEbpSGA/Tt-6ByaZRKI/AAAAAAAACnA/6S9tZnA8Dvs/s1600/cinemax_hdtv.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD |  CINEMAX ACTION
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6943
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  DISCOVERY FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/1200px-Discovery_Family_logo.svg.png" group-title="CULTURA",PREMIUM HD |  DISCOVERY FAMILY
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/132709
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Idlogo2016.png" group-title="CULTURA",PREMIUM HD |  DISCOVERY ID
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/133325
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  DISCOVERY SCIENCIE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="CULTURA",PREMIUM HD |  DISCOVERY SCIENCIE
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6947
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  GOLDEN PLUS" tvg-logo="https://i.imgur.com/4OtKo3s.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD |  GOLDEN PLUS
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6973
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD |  GOLDEN PREMIER
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6974
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  STAR LIFE" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARLIFE_t-290x163.png" group-title="CADENAS PREMIUM",PREMIUM HD |  STAR LIFE
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6965
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  SYFY" tvg-logo="https://ems-media-prod.s3.amazonaws.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19_3.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD |  SYFY
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6992
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD |  TLC
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/7011
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | A&E" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD | A&E
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/132665
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | AMC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD | AMC 
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/132664
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | CINECANAL" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD | CINECANAL
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/132666
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | DISCOVERY H&H" tvg-logo="https://www.comteco.com.bo/img/upload/canales/hyh-discovery.png" group-title="CULTURA",PREMIUM HD | DISCOVERY H&H
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/131991
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | EL GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD | EL GOURMET
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/141166
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | FX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLZbzeTHo6ZZMNWjSUpHb6yQWXOmS4uI375Q&usqp=CAU" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD | FX
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/132667
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="CADENAS PREMIUM",PREMIUM HD | HBO
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/71579
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/149px-HBO2_logo.png" group-title="CADENAS PREMIUM",PREMIUM HD | HBO 2
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/71580
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/135px-HBO_Family_logo.png" group-title="CADENAS PREMIUM",PREMIUM HD | HBO FAMILY
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/71578
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="CADENAS PREMIUM",PREMIUM HD | HBO PLUS
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/71577
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="CADENAS PREMIUM",PREMIUM HD | HBO XTREME
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/132499
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | Morbido TV" tvg-logo="https://morbido.tv/images/morbido-blanco-completo.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD | Morbido TV
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8342
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | SPACE " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZGDvpeaMt684oWLfYFq4MaV3JNnZtMLmJw&usqp=CAU" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD | SPACE 
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/132668
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | UNIVERSAL CRIME HD" tvg-logo="http://miarea.vip:8080/images/7b2900fcdb12cfc140ad2a6027f7e065.png" group-title="CADENAS PREMIUM",PREMIUM HD | UNIVERSAL CRIME HD
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/71574
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | STARZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/200px-Starz_2016.svg.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD | STARZ
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/69510
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | STARZ ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Starz_Cinema_2016.svg/125px-Starz_Cinema_2016.svg.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD | STARZ ACTION
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/69501
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | STARZ EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/200px-Starz_2016.svg.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD | STARZ EAST
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/69503
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | STARZ ENCORE WESTERN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Starz_Encore.svg/240px-Starz_Encore.svg.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD | STARZ ENCORE WESTERN
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/69509
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | Univision Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="ENTRETENIMIENTO Y CINE",PREMIUM HD | Univision Telenovelas
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/208368
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="PREMIUM | A&E" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="PREMIUM SD",PREMIUM | A&E
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8355
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="PREMIUM | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/320px-AMC_logo_2016.png" group-title="PREMIUM SD",PREMIUM | AMC
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8422
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Univision Tlenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/220px-Univision_tlnovelas_%282019%29.svg.png" group-title="PREMIUM SD",PREMIUM | Univision Tlenovelas
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/69328
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/120px-Warner2018LA.png" group-title="PREMIUM SD",PREMIUM | Warner Channel
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8373
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD |  DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/DirecTV.png" group-title="DEPORTES HD",DEPORTES HD |  DIRECTV SPORTS
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/95015
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | DIRECTV SPORTS 2" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_DTV_Sports2_2018.png.cce0ab1b6242dfc10c04dc60639979e5.png" group-title="DEPORTES HD",DEPORTES HD | DIRECTV SPORTS 2
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8513
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/DirecTV.png" group-title="DEPORTES HD",DEPORTES HD | DIRECTV SPORTS +
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/133143
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN  1 ARG" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png" group-title="DEPORTES HD",DEPORTES HD | ESPN  1 ARG
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8515
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN  2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="DEPORTES HD",DEPORTES HD | ESPN  2 ARG
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8516
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN  3 ARG" tvg-logo="https://www.logolynx.com/images/logolynx/50/504ccfce10015733c0739bfb9a9f59b4.png" group-title="DEPORTES HD",DEPORTES HD | ESPN  3 ARG
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8520
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 1 MX" tvg-logo="https://images2.imgbox.com/ab/7c/cv8Hy4lJ_o.png" group-title="DEPORTES HD",DEPORTES HD | ESPN 1 MX
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/47763
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 2 MX" tvg-logo="https://images2.imgbox.com/ca/84/sywBxjbU_o.png" group-title="DEPORTES HD",DEPORTES HD | ESPN 2 MX
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/47764
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 3 MX" tvg-logo="https://images2.imgbox.com/43/92/jkF02Ruw_o.png" group-title="DEPORTES HD",DEPORTES HD | ESPN 3 MX
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/47765
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS  1 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="DEPORTES HD",DEPORTES HD | FOX SPORTS  1 ARG
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8505
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS  2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES HD",DEPORTES HD | FOX SPORTS  2 ARG
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8507
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS  3 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="DEPORTES HD",DEPORTES HD | FOX SPORTS  3 ARG
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/47758
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS 1 CHI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="DEPORTES HD",DEPORTES HD | FOX SPORTS 1 CHI
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8510
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS 1 MX" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="DEPORTES HD",DEPORTES HD | FOX SPORTS 1 MX
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/47759
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS 2 CHI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="DEPORTES HD",DEPORTES HD | FOX SPORTS 2 CHI
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8511
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS 2 MX" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="DEPORTES HD",DEPORTES HD | FOX SPORTS 2 MX
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/47760
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS 3 MX" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="DEPORTES HD",DEPORTES HD | FOX SPORTS 3 MX
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/47762
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/150px-FOX_Sports_logo.svg.png" group-title="DEPORTES HD",DEPORTES HD | FOX SPORTS PREMIUM
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8527
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
