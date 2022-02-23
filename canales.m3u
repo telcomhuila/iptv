@@ -1,4 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="EC | STAR+ EVENTOS HD" tvg-logo="http://www.tvglobals.xyz/logos/starec_hd.png" group-title="ECUADOR",EC | STAR+ EVENTOS HD
-http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/224918
-#EXTINF:-1 tvg-id="" tvg-name="EC | STAR+ EVENTOS SD" tvg-logo="http://www.tvglobals.xyz/logos/starec_sd.png" group-title="ECUADOR",EC | STAR+ EVENTOS SD
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",COL | CARACOL HD 
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8820
+#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL HD OP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png" group-title="COLOMBIA",COL | CARACOL HD OP 2
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6683
+#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",COL | CARACOL SD
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/130975
+
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | RCN NUESTRA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/125px-Canal_RCN_logo.svg.png" group-title="COLOMBIA",COL HD | RCN NUESTRA TELE
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6685
+
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | TELE CARIBE DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="COLOMBIA",COL HD | TELE CARIBE DEPORTES
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6700
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | TELECAFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA",COL HD | TELECAFE
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6706
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | TELEMEDELLIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/150px-Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA",COL HD | TELEMEDELLIN
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8831
+#EXTINF:-1 tvg-id="" tvg-name="COL HD | TV AGRO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/245px-TV_Agro_logo.svg.png" group-title="COLOMBIA",COL HD | TV AGRO 
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/6708
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/150px-Canal_tro_logo.PNG" group-title="COLOMBIA",COL | CANAL TRO
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8822
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/125px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",COL | CANAL UNO
+http://goplays.xyz:8000/Bibiana/p52mPLjMk8aB/8823
+
